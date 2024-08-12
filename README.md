@@ -3,7 +3,7 @@
 </div>  
   
 ### <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=✌️Hi!+I'm+Sergey,+Frontend+developer)](https://git.io/typing-svg) </div>  
-### <div align="center">working in frontend 👨‍💻 since 2023 🚀</div>
+### <div align="center">working in frontend 👨‍💻</div>
 
 - 🔭 I'm currently working on BoatFix web application
 
